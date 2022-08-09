@@ -1,3 +1,0 @@
-sid='ACf291ebe00ae68822d7b32ab1c03dc903'
-token='301d6cac17e5fede17511687b2e9a899'
-number='+12058583259'
